@@ -28,8 +28,6 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katsuhiro-U&theme=vue-dark&layout=compact" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
